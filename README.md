@@ -8,20 +8,18 @@
 
 >I am recent engineering graduate🎓 currently working in a MNC Tata Consultancy Services looking for opportunities and collabaration in projects related to data science and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with DevOps tools and looking forward to Share and Gain knowledgeable stuff☘️.
 ### Talking about Personal Stuffs:
-- 👨‍💻 Portfolio  [prashanttripathi.me](https://PrashantTripathi.me)
-- 👨‍🎓 Experience Level: 6+ years
+- 👨‍💻 Portfolio: SOON! 
+- 👨‍🎓 Experience Level: 3+ years
 
-- 💻 I’m currently learning Full Stack Development 🚀.
+- 💻 I’m currently learning Full Stack Development / Ethical Hacking🚀.
 
-- 🧩 Interested in: Technology, Android, spaceX, Web Development and Machine Learning.
+- 🧩 Interested in: Technology, Android, Web Development, Ethical Hacking and Machine Learning.
 
-- 💡 Equipments: Sarcasm, Knowledge, C, PHP, HTML, CSS, Linux, Broken Heart and Python!
+- 💡 Equipments: Sarcasm, Knowledge, C++, C, C#, PHP, HTML, CSS, JS, Linux and Python!
 
 - ⚡ Fun fact **Prefer Chai over coffee**
 
-- 📝 [Resume](https://drive.google.com/file/d/1D22RXko74BNot1__6HloRHRdAXXDk39h/view?usp=sharing)
-
-- 💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/PtPrashantTripathi/issues/1)! I am happy to help.
+- 💬 Ask me about anything [here](https://github.com/Portorx/Portorx/issues/1)! I am happy to help.
 
 ### Languages and Tools:
 
@@ -30,8 +28,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/PtPrashantTripathi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PtPrashantTripathi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+<a href="https://github.com/Portorx">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Portorx&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PtPrashantTripathi&layout=compact&exclude_lang=java+r&theme=vue-dark" />
   <img height="180em" src="github-readme-streak-stats.herokuapp.svg"/>
 </a>
